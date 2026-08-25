@@ -1,0 +1,8 @@
+module RRAM_Crossbar_8x8 (
+    inout [31:0] word_line [0:7],  // 8 word lines (rows)
+    inout [31:0] bit_line [0:7]    // 8 bit lines (columns)
+);
+    
+    //dummy module 
+
+endmodule
